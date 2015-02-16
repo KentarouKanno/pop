@@ -7,7 +7,7 @@
 //
 
 #import "PopOverController3.h"
-#import "PopOverController.h"
+#import "PopOverController5.h"
 
 @interface PopOverController3 ()<UITableViewDataSource,UITableViewDelegate>
 
@@ -27,8 +27,20 @@
     self.tableView.delegate = self;
     self.tableView.dataSource = self;
     
+    self.view.backgroundColor = [UIColor colorWithWhite:0.0 alpha:0.5];
     
-   
+    
+    [self.navigationController.navigationBar setBackgroundImage:[UIImage new]
+                             forBarMetrics:UIBarMetricsDefault];
+    self.navigationController.navigationBar.shadowImage = [UIImage new];
+    self.navigationController.navigationBar.translucent = YES;
+
+}
+
+
+-(void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event {
+    
+    [self.view endEditing:YES];
 }
 
 - (void)closeButton:(UIBarButtonItem*)button
@@ -62,7 +74,7 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
     
-    PopOverController *nextView = [[PopOverController alloc]init];
+    PopOverController5 *nextView = [[PopOverController5 alloc]init];
     [self.navigationController pushViewController:nextView animated:YES];
     
 }

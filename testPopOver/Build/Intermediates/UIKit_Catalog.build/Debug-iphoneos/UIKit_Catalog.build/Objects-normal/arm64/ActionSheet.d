@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/ActionSheet.m \
-  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/ActionSheet.h
+  /Users/KentarOu/Desktop/My_Github/popOverTEST/pop/testPopOver/UIKit_Catalog/ActionSheet.m \
+  /Users/KentarOu/Desktop/My_Github/popOverTEST/pop/testPopOver/UIKit_Catalog/ActionSheet.h

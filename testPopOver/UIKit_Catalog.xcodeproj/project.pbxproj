@@ -11,6 +11,10 @@
 		36899A0E19C66A9500CA9F02 /* TableView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36899A0C19C66A9500CA9F02 /* TableView.xib */; };
 		36AF504A1A9248BD00CB3FED /* balloon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 36AF50491A9248BD00CB3FED /* balloon.jpg */; };
 		36AF504D1A924CC300CB3FED /* PopoverBackgroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = 36AF504C1A924CC300CB3FED /* PopoverBackgroundView.m */; };
+		36AF50511A92A50B00CB3FED /* PopOverController5.m in Sources */ = {isa = PBXBuildFile; fileRef = 36AF504F1A92A50B00CB3FED /* PopOverController5.m */; };
+		36AF50521A92A50B00CB3FED /* PopOverController5.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36AF50501A92A50B00CB3FED /* PopOverController5.xib */; };
+		36AF50561A92A78F00CB3FED /* PopOverController6.m in Sources */ = {isa = PBXBuildFile; fileRef = 36AF50541A92A78F00CB3FED /* PopOverController6.m */; };
+		36AF50571A92A78F00CB3FED /* PopOverController6.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36AF50551A92A78F00CB3FED /* PopOverController6.xib */; };
 		36CB6B3C19E441330091F14E /* PopOverView.m in Sources */ = {isa = PBXBuildFile; fileRef = 36CB6B3A19E441330091F14E /* PopOverView.m */; };
 		36CB6B3D19E441330091F14E /* PopOverView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36CB6B3B19E441330091F14E /* PopOverView.xib */; };
 		36CB6B4119E443100091F14E /* PopOverController.m in Sources */ = {isa = PBXBuildFile; fileRef = 36CB6B3F19E443100091F14E /* PopOverController.m */; };
@@ -109,6 +113,12 @@
 		36AF50491A9248BD00CB3FED /* balloon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = balloon.jpg; sourceTree = "<group>"; };
 		36AF504B1A924CC300CB3FED /* PopoverBackgroundView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopoverBackgroundView.h; sourceTree = "<group>"; };
 		36AF504C1A924CC300CB3FED /* PopoverBackgroundView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopoverBackgroundView.m; sourceTree = "<group>"; };
+		36AF504E1A92A50B00CB3FED /* PopOverController5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopOverController5.h; sourceTree = "<group>"; };
+		36AF504F1A92A50B00CB3FED /* PopOverController5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopOverController5.m; sourceTree = "<group>"; };
+		36AF50501A92A50B00CB3FED /* PopOverController5.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PopOverController5.xib; sourceTree = "<group>"; };
+		36AF50531A92A78F00CB3FED /* PopOverController6.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopOverController6.h; sourceTree = "<group>"; };
+		36AF50541A92A78F00CB3FED /* PopOverController6.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopOverController6.m; sourceTree = "<group>"; };
+		36AF50551A92A78F00CB3FED /* PopOverController6.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PopOverController6.xib; sourceTree = "<group>"; };
 		36CB6B3919E441330091F14E /* PopOverView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopOverView.h; sourceTree = "<group>"; };
 		36CB6B3A19E441330091F14E /* PopOverView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopOverView.m; sourceTree = "<group>"; };
 		36CB6B3B19E441330091F14E /* PopOverView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PopOverView.xib; sourceTree = "<group>"; };
@@ -264,6 +274,12 @@
 				36DFFA2219FEAD5B0020E85C /* PopOverController4.h */,
 				36DFFA2319FEAD5B0020E85C /* PopOverController4.m */,
 				36DFFA2419FEAD5B0020E85C /* PopOverController4.xib */,
+				36AF504E1A92A50B00CB3FED /* PopOverController5.h */,
+				36AF504F1A92A50B00CB3FED /* PopOverController5.m */,
+				36AF50501A92A50B00CB3FED /* PopOverController5.xib */,
+				36AF50531A92A78F00CB3FED /* PopOverController6.h */,
+				36AF50541A92A78F00CB3FED /* PopOverController6.m */,
+				36AF50551A92A78F00CB3FED /* PopOverController6.xib */,
 				36AF504B1A924CC300CB3FED /* PopoverBackgroundView.h */,
 				36AF504C1A924CC300CB3FED /* PopoverBackgroundView.m */,
 			);
@@ -676,6 +692,7 @@
 				378C69101853135E00886452 /* button.jpg in Resources */,
 				36CB6B4C19E5A47E0091F14E /* PopOverController3.xib in Resources */,
 				378C693218533E9B00886452 /* image1.jpg in Resources */,
+				36AF50521A92A50B00CB3FED /* PopOverController5.xib in Resources */,
 				378C69791855FA8200886452 /* ActionSheet.xib in Resources */,
 				36DFFA2619FEAD5B0020E85C /* PopOverController4.xib in Resources */,
 				37ADC8671852CAFB003B8937 /* zoom.png in Resources */,
@@ -698,6 +715,7 @@
 				378C693418533E9B00886452 /* image3.jpg in Resources */,
 				36AF504A1A9248BD00CB3FED /* balloon.jpg in Resources */,
 				378C6920185327D500886452 /* IndicatorView.xib in Resources */,
+				36AF50571A92A78F00CB3FED /* PopOverController6.xib in Resources */,
 				36CB6B4219E443100091F14E /* PopOverController.xib in Resources */,
 				378C695D1854585500886452 /* SegmentedControlView.xib in Resources */,
 				378C696D1855E74300886452 /* ProgressView.xib in Resources */,
@@ -738,6 +756,7 @@
 				378C6925185331A200886452 /* SwitchView.m in Sources */,
 				36899A0D19C66A9500CA9F02 /* TableView.m in Sources */,
 				378C69611854605C00886452 /* PickerView.m in Sources */,
+				36AF50561A92A78F00CB3FED /* PopOverController6.m in Sources */,
 				37ADC8531852AED7003B8937 /* ViewController.m in Sources */,
 				37ADC86C1852CD06003B8937 /* StepperView.m in Sources */,
 				37ADC8721852EFAE003B8937 /* StringSizeView.m in Sources */,
@@ -763,6 +782,7 @@
 				36CB6B4119E443100091F14E /* PopOverController.m in Sources */,
 				36DFFA2519FEAD5B0020E85C /* PopOverController4.m in Sources */,
 				37ADC8291852AE7A003B8937 /* main.m in Sources */,
+				36AF50511A92A50B00CB3FED /* PopOverController5.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

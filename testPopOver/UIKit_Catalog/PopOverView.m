@@ -25,6 +25,7 @@
     __weak IBOutlet UIButton *pickerButton;
     __weak IBOutlet UIButton *naviButton;
     __weak IBOutlet UIButton *webButton;
+    
 }
 
 @end
@@ -37,6 +38,31 @@
 {
     PopOverView *view = [[UINib nibWithNibName:NSStringFromClass([self class]) bundle:nil]instantiateWithOwner:nil options:nil][0];
     return view;
+}
+
+-(void)awakeFromNib {
+    
+    [[NSNotificationCenter defaultCenter]addObserver:self selector:@selector(willshowKeyboard:) name:UIKeyboardWillShowNotification object:nil];
+    [[NSNotificationCenter defaultCenter]addObserver:self selector:@selector(didHideKeyboard:) name:UIKeyboardWillHideNotification object:nil];
+}
+
+
+- (void)willshowKeyboard:(NSNotification*)notify {
+    
+    CGSize size = popoverController3.popoverContentSize;
+    size.height = 350;
+    
+     [popoverController3 setPopoverContentSize:size];
+}
+
+
+- (void)didHideKeyboard:(NSNotification*)notify {
+    
+    CGSize size = popoverController3.popoverContentSize;
+    size.height = 500;
+    
+    [popoverController3 setPopoverContentSize:size];
+    
 }
 
 
@@ -110,26 +136,32 @@
     PopOverController3 *svc = [[PopOverController3 alloc] init];
     svc.delegate = self;
     UINavigationController *navi = [[UINavigationController alloc]initWithRootViewController:svc];
-    [navi setNavigationBarHidden:YES];
+   // [navi setNavigationBarHidden:YES];
 
     
     popoverController3 = [[UIPopoverController alloc] initWithContentViewController:navi];
     [popoverController3 setPopoverContentSize:svc.view.frame.size];
-    popoverController3.popoverBackgroundViewClass = [PopoverBackgroundView class];
+  //  popoverController3.popoverBackgroundViewClass = [PopoverBackgroundView class];
+    
+    popoverController3.backgroundColor = svc.view.backgroundColor;
+    popoverController3.backgroundColor = [UIColor blackColor];
+    
+    popoverController3.backgroundColor = [UIColor colorWithWhite:0.0 alpha:0.6];
+    
     popoverController3.delegate = self;
     
     
     CGRect rect = naviButton.bounds;
-    rect = CGRectMake(naviButton.bounds.origin.x - 120,
-                      naviButton.bounds.origin.y + 180,
-                      naviButton.bounds.size.width,
-                      naviButton.bounds.size.height);
+//    rect = CGRectMake(naviButton.bounds.origin.x - 120,
+//                      naviButton.bounds.origin.y + 180,
+//                      naviButton.bounds.size.width,
+//                      naviButton.bounds.size.height);
     
     
     // Popoverを表示する
     [popoverController3 presentPopoverFromRect:rect
                                         inView:naviButton
-                      permittedArrowDirections:0
+                      permittedArrowDirections:UIPopoverArrowDirectionUp
                                       animated:YES];
 }
 

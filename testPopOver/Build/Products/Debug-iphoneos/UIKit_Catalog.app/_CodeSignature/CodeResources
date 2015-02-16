@@ -6,27 +6,27 @@
 	<dict>
 		<key>ActionSheet.nib</key>
 		<data>
-		z4KPNeJDkwou3Dt7MIjOBaWVpas=
+		OVTLbaYAljhETG4UfVXEFTdZ/qU=
 		</data>
 		<key>AlertView.nib</key>
 		<data>
-		Yy++lXUe2L+AGtW3F/4ookYkQEc=
+		BQzfb5NVjsuUt8tjaFBgSwZc4Ag=
 		</data>
 		<key>ButtonSizeView.nib</key>
 		<data>
-		rFLQ/jVu1gqDCLDBhgPpWJVM9g4=
+		bNa4k5+nNIqsU8NMswH8OXrXjCI=
 		</data>
 		<key>DatePickerView.nib</key>
 		<data>
-		2UYz50z8TGK59jInT9xqBjT6Ylc=
+		zeZN8FpkHmXh+lYYOOKDgDtf6Ic=
 		</data>
 		<key>GestureView.nib</key>
 		<data>
-		9LLB043/6fbBbFut0/S9yyiEoJg=
+		TlsGgi8DsLt7yVwbJADeJLB8a4c=
 		</data>
 		<key>IndicatorView.nib</key>
 		<data>
-		8Zmgszo5PBsmj3+nvGabAHbBFjc=
+		XIfU/1GXB8sU785AgHxgGplrUQw=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -34,15 +34,15 @@
 		</data>
 		<key>MapView.nib</key>
 		<data>
-		KqC+gb8PLV0qddItps7Hhw1nCAk=
+		PFfxIU6xk9hDNnn79LwUe8aSM7A=
 		</data>
 		<key>PageControlView.nib</key>
 		<data>
-		ZNlNa1F9msRNRFVp8VmO/eLTNy4=
+		vIfEAFNbPsNg9h5/90dCqA7nRNI=
 		</data>
 		<key>PickerView.nib</key>
 		<data>
-		SvKkFN4bPXrtLJlCDsQn1XvRiRM=
+		gdSgkVNhsIAkb6rNZJK+y4vDorU=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -50,67 +50,75 @@
 		</data>
 		<key>PopOverController.nib</key>
 		<data>
-		KD5IXSKRPENhTe90KOd9ZHAIzfA=
+		HqXK+Kf9e3SUV9VvpoH1r6wmOO0=
 		</data>
 		<key>PopOverController2.nib</key>
 		<data>
-		H/hVbHHAqBUpJxZQWxv/tns1BUk=
+		/09kONvjer0aOs+92sZ7mGZ5XsE=
 		</data>
 		<key>PopOverController3.nib</key>
 		<data>
-		jibxQYhIi3u+DFdKNLOQw8aMxVc=
+		+xL1+l2GO4eUCP5x6sw8tf9fq/I=
 		</data>
 		<key>PopOverController4.nib</key>
 		<data>
-		MjHzBCouNPpaedjRu6Qe1c2mUcU=
+		xuz3JXjxxpf+4SQnogqfYL656Sg=
+		</data>
+		<key>PopOverController5.nib</key>
+		<data>
+		fMUi76NLD4C/eZmaxzbtZvXc+9A=
+		</data>
+		<key>PopOverController6.nib/objects-8.0+.nib</key>
+		<data>
+		AeOHT2fhpmZoKMR31/ke0Vw5bec=
+		</data>
+		<key>PopOverController6.nib/runtime.nib</key>
+		<data>
+		6tfRxhygnM1DQ5WxkW2iLPqkhqg=
 		</data>
 		<key>PopOverView.nib</key>
 		<data>
-		mNbyI04OP9BNFthCeFz7cXCk3bQ=
+		ITdoypFBj4vdR4fOS4Nj7nr/3F0=
 		</data>
 		<key>ProgressView.nib</key>
 		<data>
-		ojQsj0PFk8ixVJJtRPjr8ymqTCQ=
-		</data>
-		<key>ResourceRules.plist</key>
-		<data>
-		lwspKkpks/znbeAxH6w3tE+gCNg=
+		l+yb8SuQlWjoGHCndQx4t1+oRVA=
 		</data>
 		<key>ScrollView.nib</key>
 		<data>
-		RaerO7/i4kuSGjo+eoPUnAgqk18=
+		nM3prAArnRKGjMSKkS5N/qaNqc8=
 		</data>
 		<key>SegmentedControlView.nib</key>
 		<data>
-		B/K7nrT9jvkFExrqdTdsScytMkU=
+		pyZ5BQjO0L4CdcGgUBPHz2tOd2Q=
 		</data>
 		<key>SliderView.nib</key>
 		<data>
-		DsBIhS3qFDBSoQaat/4ssGbjwYg=
+		XZ5Y4GkCsfcEHMySbdmO5CnmsJU=
 		</data>
 		<key>StepperView.nib</key>
 		<data>
-		TFsEF8pnvQoheWHOtYLqeKYpIB0=
+		l/lrDvS88y7CkypPu2TmK3FD6Yo=
 		</data>
 		<key>StringSizeView.nib</key>
 		<data>
-		OjkJq48mqPsB0zjaMLN/PkXi0ZQ=
+		0vmXhS7A2W2cFqbwq2tmnyKXvOg=
 		</data>
 		<key>SwitchView.nib</key>
 		<data>
-		mbTRbOAMAcdDG3mvyQaJ3ba6fsA=
+		L+SoXn6RDwPoyq6+kuJnC/Wv32c=
 		</data>
 		<key>TableView.nib</key>
 		<data>
-		p13Ck3TSEIpriPNHD+xSgUWMO+U=
+		I+L9NP64iqpFB65vhi6vs2cciC4=
 		</data>
 		<key>TextFieldView.nib</key>
 		<data>
-		h3X1PlWxLCMYCNniMNOiHWejTFc=
+		p7L/pTFJ28PaVLlJXKw4byIaTmg=
 		</data>
 		<key>TextView.nib</key>
 		<data>
-		XSe6ibntJ1Emlamy14/pVgmF7Jg=
+		zjISX/7O2wicU1DsNnl1Yy4KTVA=
 		</data>
 		<key>Title.plist</key>
 		<data>
@@ -118,11 +126,11 @@
 		</data>
 		<key>ViewController.nib</key>
 		<data>
-		OkpMpuIAMgrellXL0FfrxUhN/jA=
+		yhu+GtzR0PgKMmagrOmHOLNOo3M=
 		</data>
 		<key>WebView1.nib</key>
 		<data>
-		/DdyuGMDksDoAeaCr7in1h89N7I=
+		1sDkD5aHXJjVLBSrDo4FdGoKdl0=
 		</data>
 		<key>apple.jpeg</key>
 		<data>
@@ -198,103 +206,111 @@
 	<dict>
 		<key>ActionSheet.nib</key>
 		<data>
-		z4KPNeJDkwou3Dt7MIjOBaWVpas=
+		OVTLbaYAljhETG4UfVXEFTdZ/qU=
 		</data>
 		<key>AlertView.nib</key>
 		<data>
-		Yy++lXUe2L+AGtW3F/4ookYkQEc=
+		BQzfb5NVjsuUt8tjaFBgSwZc4Ag=
 		</data>
 		<key>ButtonSizeView.nib</key>
 		<data>
-		rFLQ/jVu1gqDCLDBhgPpWJVM9g4=
+		bNa4k5+nNIqsU8NMswH8OXrXjCI=
 		</data>
 		<key>DatePickerView.nib</key>
 		<data>
-		2UYz50z8TGK59jInT9xqBjT6Ylc=
+		zeZN8FpkHmXh+lYYOOKDgDtf6Ic=
 		</data>
 		<key>GestureView.nib</key>
 		<data>
-		9LLB043/6fbBbFut0/S9yyiEoJg=
+		TlsGgi8DsLt7yVwbJADeJLB8a4c=
 		</data>
 		<key>IndicatorView.nib</key>
 		<data>
-		8Zmgszo5PBsmj3+nvGabAHbBFjc=
+		XIfU/1GXB8sU785AgHxgGplrUQw=
 		</data>
 		<key>MapView.nib</key>
 		<data>
-		KqC+gb8PLV0qddItps7Hhw1nCAk=
+		PFfxIU6xk9hDNnn79LwUe8aSM7A=
 		</data>
 		<key>PageControlView.nib</key>
 		<data>
-		ZNlNa1F9msRNRFVp8VmO/eLTNy4=
+		vIfEAFNbPsNg9h5/90dCqA7nRNI=
 		</data>
 		<key>PickerView.nib</key>
 		<data>
-		SvKkFN4bPXrtLJlCDsQn1XvRiRM=
+		gdSgkVNhsIAkb6rNZJK+y4vDorU=
 		</data>
 		<key>PopOverController.nib</key>
 		<data>
-		KD5IXSKRPENhTe90KOd9ZHAIzfA=
+		HqXK+Kf9e3SUV9VvpoH1r6wmOO0=
 		</data>
 		<key>PopOverController2.nib</key>
 		<data>
-		H/hVbHHAqBUpJxZQWxv/tns1BUk=
+		/09kONvjer0aOs+92sZ7mGZ5XsE=
 		</data>
 		<key>PopOverController3.nib</key>
 		<data>
-		jibxQYhIi3u+DFdKNLOQw8aMxVc=
+		+xL1+l2GO4eUCP5x6sw8tf9fq/I=
 		</data>
 		<key>PopOverController4.nib</key>
 		<data>
-		MjHzBCouNPpaedjRu6Qe1c2mUcU=
+		xuz3JXjxxpf+4SQnogqfYL656Sg=
+		</data>
+		<key>PopOverController5.nib</key>
+		<data>
+		fMUi76NLD4C/eZmaxzbtZvXc+9A=
+		</data>
+		<key>PopOverController6.nib/objects-8.0+.nib</key>
+		<data>
+		AeOHT2fhpmZoKMR31/ke0Vw5bec=
+		</data>
+		<key>PopOverController6.nib/runtime.nib</key>
+		<data>
+		6tfRxhygnM1DQ5WxkW2iLPqkhqg=
 		</data>
 		<key>PopOverView.nib</key>
 		<data>
-		mNbyI04OP9BNFthCeFz7cXCk3bQ=
+		ITdoypFBj4vdR4fOS4Nj7nr/3F0=
 		</data>
 		<key>ProgressView.nib</key>
 		<data>
-		ojQsj0PFk8ixVJJtRPjr8ymqTCQ=
-		</data>
-		<key>ResourceRules.plist</key>
-		<data>
-		lwspKkpks/znbeAxH6w3tE+gCNg=
+		l+yb8SuQlWjoGHCndQx4t1+oRVA=
 		</data>
 		<key>ScrollView.nib</key>
 		<data>
-		RaerO7/i4kuSGjo+eoPUnAgqk18=
+		nM3prAArnRKGjMSKkS5N/qaNqc8=
 		</data>
 		<key>SegmentedControlView.nib</key>
 		<data>
-		B/K7nrT9jvkFExrqdTdsScytMkU=
+		pyZ5BQjO0L4CdcGgUBPHz2tOd2Q=
 		</data>
 		<key>SliderView.nib</key>
 		<data>
-		DsBIhS3qFDBSoQaat/4ssGbjwYg=
+		XZ5Y4GkCsfcEHMySbdmO5CnmsJU=
 		</data>
 		<key>StepperView.nib</key>
 		<data>
-		TFsEF8pnvQoheWHOtYLqeKYpIB0=
+		l/lrDvS88y7CkypPu2TmK3FD6Yo=
 		</data>
 		<key>StringSizeView.nib</key>
 		<data>
-		OjkJq48mqPsB0zjaMLN/PkXi0ZQ=
+		0vmXhS7A2W2cFqbwq2tmnyKXvOg=
 		</data>
 		<key>SwitchView.nib</key>
 		<data>
-		mbTRbOAMAcdDG3mvyQaJ3ba6fsA=
+		L+SoXn6RDwPoyq6+kuJnC/Wv32c=
 		</data>
 		<key>TableView.nib</key>
 		<data>
-		p13Ck3TSEIpriPNHD+xSgUWMO+U=
+		I+L9NP64iqpFB65vhi6vs2cciC4=
 		</data>
 		<key>TextFieldView.nib</key>
 		<data>
-		h3X1PlWxLCMYCNniMNOiHWejTFc=
+		p7L/pTFJ28PaVLlJXKw4byIaTmg=
 		</data>
 		<key>TextView.nib</key>
 		<data>
-		XSe6ibntJ1Emlamy14/pVgmF7Jg=
+		zjISX/7O2wicU1DsNnl1Yy4KTVA=
 		</data>
 		<key>Title.plist</key>
 		<data>
@@ -302,11 +318,11 @@
 		</data>
 		<key>ViewController.nib</key>
 		<data>
-		OkpMpuIAMgrellXL0FfrxUhN/jA=
+		yhu+GtzR0PgKMmagrOmHOLNOo3M=
 		</data>
 		<key>WebView1.nib</key>
 		<data>
-		/DdyuGMDksDoAeaCr7in1h89N7I=
+		1sDkD5aHXJjVLBSrDo4FdGoKdl0=
 		</data>
 		<key>apple.jpeg</key>
 		<data>
