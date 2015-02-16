@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/ViewController.m \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/ViewController.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/SliderView.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/StepperView.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/StringSizeView.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/ButtonSizeView.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/TextFieldView.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/IndicatorView.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/SwitchView.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/PageControlView.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/ScrollView.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/TextView.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/WebView1.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/DatePickerView.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/SegmentedControlView.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/PickerView.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/MapView.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/ProgressView.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/AlertView.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/ActionSheet.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/GestureView.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/TableView.h \
+  /Users/KentarOu/Desktop/UIkitCatalog-for-iPad/UIKit_Catalog/PopOverView.h

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>UISlider</string>
+	<string>UIStepper</string>
+	<string>StringSize</string>
+	<string>UIButton</string>
+	<string>UITextField</string>
+	<string>UIActivityIndicatorView</string>
+	<string>UISwitch</string>
+	<string>UIPageControl</string>
+	<string>UIScrollView</string>
+	<string>UITextView</string>
+	<string>UIWebView</string>
+	<string>UIDatePicker</string>
+	<string>UISegmentedControl</string>
+	<string>UIPickerView</string>
+	<string>MKMapView</string>
+	<string>UIProgressView</string>
+	<string>UIAlertView,UIAlertController</string>
+	<string>UIActionSheet</string>
+	<string>UIGestureRecognizer</string>
+	<string>UITableView</string>
+	<string>UIPopoverController</string>
+	<string>MFMailComposeViewController</string>
+</array>
+</plist>
